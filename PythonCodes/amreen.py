@@ -1,0 +1,6 @@
+print("Amreen")
+print("0----")
+print(" ||||")
+print("*" * 10)
+print("00000000   $$$$$  &&&&&")
+print("|||||||")
